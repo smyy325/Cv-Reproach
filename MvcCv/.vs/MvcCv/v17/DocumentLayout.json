@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sql\\MvcCv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|d:\\sql\\mvccv\\mvccv\\views\\default\\yeteneklerim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\default\\yeteneklerim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|d:\\sql\\mvccv\\mvccv\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|d:\\sql\\mvccv\\mvccv\\views\\default\\sosyalmedya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\default\\sosyalmedya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|d:\\sql\\mvccv\\mvccv\\views\\default\\sertifikalarim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\default\\sertifikalarim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|d:\\sql\\mvccv\\mvccv\\views\\default\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\default\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|d:\\sql\\mvccv\\mvccv\\views\\default\\hobilerim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\default\\hobilerim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|d:\\sql\\mvccv\\mvccv\\views\\default\\deneyim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\default\\deneyim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|d:\\sql\\mvccv\\mvccv\\views\\default\\egitimlerim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88FFA721-6EAD-434C-AB18-9A439D7B814E}|MvcCv\\MvcCv.csproj|solutionrelative:mvccv\\views\\default\\egitimlerim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Default\\Index.cshtml",
+              "ToolTip": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T06:05:25.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Yeteneklerim.cshtml",
+              "DocumentMoniker": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Yeteneklerim.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Default\\Yeteneklerim.cshtml",
+              "ToolTip": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Yeteneklerim.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Default\\Yeteneklerim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T06:02:13.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SosyalMedya.cshtml",
+              "DocumentMoniker": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\SosyalMedya.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Default\\SosyalMedya.cshtml",
+              "ToolTip": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\SosyalMedya.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Default\\SosyalMedya.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T06:02:01.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sertifikalarim.cshtml",
+              "DocumentMoniker": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Sertifikalarim.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Default\\Sertifikalarim.cshtml",
+              "ToolTip": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Sertifikalarim.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Default\\Sertifikalarim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T06:01:17.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "iletisim.cshtml",
+              "DocumentMoniker": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\iletisim.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Default\\iletisim.cshtml",
+              "ToolTip": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\iletisim.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Default\\iletisim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T22:19:08.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hobilerim.cshtml",
+              "DocumentMoniker": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Hobilerim.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Default\\Hobilerim.cshtml",
+              "ToolTip": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Hobilerim.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Default\\Hobilerim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T05:58:32.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Egitimlerim.cshtml",
+              "DocumentMoniker": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Egitimlerim.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Default\\Egitimlerim.cshtml",
+              "ToolTip": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Egitimlerim.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Default\\Egitimlerim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T05:58:09.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deneyim.cshtml",
+              "DocumentMoniker": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Deneyim.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Default\\Deneyim.cshtml",
+              "ToolTip": "D:\\sql\\MvcCv\\MvcCv\\Views\\Default\\Deneyim.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Default\\Deneyim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T05:57:34.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
